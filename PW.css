@@ -1,0 +1,80 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700');
+body {
+    font: Roboto;
+    font-size: 10px;
+    line-height: 3.5em;
+    font-weight: 300;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+ font-family: RobotoCondensed;
+}
+
+h1{
+  size: 9em;
+  align-items: center;
+  transform: uppercase;
+}
+h2 {
+  size: 5em;
+  align-items: center;
+  transform: uppercase;
+  line-height: 4em;
+  
+
+}
+h3 {
+  size: 4.2em;
+  align-items: center;
+  line-height: 0.4px;
+
+}
+h4{
+  size: 1.5em;
+  letter-spacing: 0.4px;
+  line-height: 1em;
+
+}
+h5 {
+  size: 1.2em;
+  line-height: 1em;
+
+}
+
+
+
+.nav-bar {
+  color: darkblue;
+}
+.nav-bar a {
+  color: white;
+  text-decoration: none;
+  font-size: 2em;
+}
+header{
+  color: darkblue;
+}
+h2 {
+  color: white;
+  text-shadow: #020819 8px -20px 9px;
+
+}
+aside {
+  font-size: 2.5em;
+
+}
+.class-dark-background{
+  background-color: darkblue;
+  color: white;
+
+}
